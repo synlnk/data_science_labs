@@ -1,0 +1,30 @@
+# Дані
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Навколишнє середовище
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
